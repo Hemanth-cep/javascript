@@ -1,0 +1,24 @@
+{
+  "name": "pakage.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "firstprg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hemanth-cep/javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hemanth-cep/javascript/issues"
+  },
+  "homepage": "https://github.com/Hemanth-cep/javascript#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0",
+    "human": "^0.1.5",
+    "inspirational-quotes": "^2.0.1"
+  }
+}
